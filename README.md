@@ -57,7 +57,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    bash
-   git clone https://github.com/<your-username>/book-review-app.git
+   git clone https://github.com/CpoohZchala/Book-Review-Web-Application.git
    cd book-review-app
 2. Install Dependencies:
    bash
@@ -83,7 +83,7 @@ Ensure you have the following installed:
 - *Filter Reviews*
 
 # Project-structure
-![image](https://github.com/user-attachments/assets/bfc9063d-d1cf-4b9f-89ed-c9f972f5b518)
+![image](https://github.com/user-attachments/assets/647ae36b-2a51-4ef5-9756-d06034597869)
 
 
 # Screenshots
